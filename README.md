@@ -52,7 +52,7 @@ LSTM Modeling: A sequential model with LSTM layers learns the non-linear degrada
 Clone the Repository
 
 Bash
-git clone https://github.com/your-username/battery-rul-prediction.git
+git clone https://github.com/your-username/battery-rul-prediction.git(https://github.com/grandangara/battery-rul-prediction-lstm)
 cd battery-rul-prediction
 Install Dependencies
 
