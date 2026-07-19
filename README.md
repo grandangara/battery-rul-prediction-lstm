@@ -20,8 +20,6 @@ Purple Points: Real ground-truth capacity (derived from NASA RW9 via Coulomb Cou
 
 Green Line: The model's prediction for unseen future cycles.
 
-(Please upload your 'result_graph.png' to the repository to see the image here)
-
 🛠️ Technologies & Methodology
 Tech Stack
 
@@ -52,7 +50,7 @@ LSTM Modeling: A sequential model with LSTM layers learns the non-linear degrada
 Clone the Repository
 
 Bash
-git clone https://github.com/your-username/battery-rul-prediction.git
+git clone https://github.com/grandangara/battery-rul-prediction.git
 cd battery-rul-prediction
 Install Dependencies
 
@@ -66,8 +64,6 @@ Place RW9.mat in the project root folder.
 
 Run the Prediction
 
-Bash
-python nasa_final_project.py
 🧠 Why This Matters?
 Accurately predicting battery health in random usage scenarios is critical for:
 
